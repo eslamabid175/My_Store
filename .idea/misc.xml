@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/drawable/Copy of account.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/drawable/border.xml" value="0.1425" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/drawable/btn_dd.xml" value="0.1455" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/drawable/edittext_bg.xml" value="0.135" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout-land/activity_splash.xml" value="0.1953125" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_detaled.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_nav_catecory.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_place_order.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_register.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_splash.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/activity_viewall.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/app_bar_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/border.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/btn_dd_to_crd.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/content_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_bidding.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_category.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_gallery.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_home.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_my_carts.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_my_orders.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_new_products.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_offers.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_profile.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/fragment_slideshow.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/home_cat_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/mycartitem.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/nav_cat_det_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/nav_cat_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/nav_header_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/popular_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/recommended_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/layout/view_all_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/menu/main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hp/Desktop/android-apps/MyStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1425" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

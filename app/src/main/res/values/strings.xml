@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="login_here">Login Here</string>
+    <string name="register_here">Register Here</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="re_enter_password">Re Enter password</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="already_have_account">already have account ?</string>
+    <string name="login_now">Login Now</string>
+    <string name="phone">Phone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="category">Category</string>
+    <string name="profile">Profile</string>
+    <string name="offers">Offers</string>
+    <string name="myorders">My orders</string>
+    <string name="new_products">New Products</string>
+    <string name="my_carts">My Carts</string>
+    <string name="bidding">Bidding</string>
+    <string name="search">Search</string>
+    <string name="description">Description</string>
+    <string name="popular_products">Popular products</string>
+    <string name="det_desc">Access to water facilities D D D D Entry into private temple, church, gurudwara etc. D D D D 4. Movement near the temple; entry into the</string>
+</resources>
